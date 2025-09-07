@@ -1,4 +1,4 @@
-# Helpdesk AI — LangChain / LangGraph / RAG (macOS)
+# Helpdesk AI — LangChain / LangGraph / RAG 
 
 Assistant Helpdesk IT pédagogique :  
 - **ask** : agent simple Anthropic  
